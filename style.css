@@ -36,14 +36,14 @@ p {
  font-weight: normal;}
 
 table{
- width: 800px;
+ width: 1000px;
  padding: 1px;
  margin: 0px auto 0px auto;
  }
 
 td,th{
     padding: 5px;
-    max-width: 600px;
+    max-width: 800px;
     text-align: left;
     font-weight: normal;
 }
